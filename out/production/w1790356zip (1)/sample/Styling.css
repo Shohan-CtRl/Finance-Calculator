@@ -1,0 +1,210 @@
+#compound{
+    -fx-background-color: whitesmoke;
+    -fx-text-fill:black;
+    -fx-border-color: black;
+    -fx-border-radius: 10;
+    -fx-background-radius: 10;
+}
+#compound:hover{
+    -fx-background-color: whitesmoke;
+    -fx-text-fill:black;
+    -fx-border-color: black;
+    -fx-border-radius: 10;
+    -fx-background-radius: 10;
+    -fx-effect: dropshadow(three-pass-box,rgba(0, 0, 0, 0.8), 10, 0, 0, 0)
+}
+#compound:pressed{
+    -fx-background-color: black;
+    -fx-text-fill:whitesmoke;
+    -fx-border-color: black;
+    -fx-border-radius: 10;
+    -fx-background-radius: 10;
+
+}
+#Close{
+    -fx-background-color: whitesmoke;
+    -fx-text-fill:black;
+    -fx-border-color: black;
+    -fx-border-radius: 10;
+    -fx-background-radius: 10;
+}
+#Close:hover{
+    -fx-background-color: crimson;
+    -fx-text-fill:black;
+    -fx-border-color: black;
+    -fx-border-radius: 10;
+    -fx-background-radius: 10;
+    -fx-effect: dropshadow(three-pass-box,rgba(0, 0, 0, 0.8), 10, 0, 0, 0)
+}
+#Close:pressed{
+    -fx-background-color: red;
+    -fx-text-fill:whitesmoke;
+    -fx-border-color: black;
+    -fx-border-radius: 10;
+    -fx-background-radius: 10;
+
+}
+#label01{
+    -fx-font: normal bold 20px 'serif';
+    -fx-text-fill:black;
+}
+#label {
+    -fx-font: normal bold 12px 'serif';
+    -fx-text-fill: black;
+}
+#ap1{
+    -fx-background-color: BEIGE;
+    -fx-border-color: black;
+    -fx-border-radius: 50;
+    -fx-background-radius: 50;
+    -fx-effect: dropshadow(three-pass-box,rgba(0, 0, 0, 0.8), 10, 0, 0, 0)
+}
+#c_ap{
+    -fx-background-color: BEIGE;
+    -fx-border-radius:10;
+    -fx-background-radius: 20
+}
+
+#c_btn{
+    -fx-background-color: transparent;
+    -fx-text-fill:black;
+    -fx-border-color: black;
+    -fx-border-radius: 10
+}
+#c_btn:hover{
+    -fx-background-color: whitesmoke;
+    -fx-text-fill:black;
+    -fx-border-color: black;
+    -fx-border-radius: 10;
+    -fx-background-radius: 10;
+    -fx-effect: dropshadow(three-pass-box,rgba(0, 0, 0, 0.8), 10, 0, 0, 0)
+}
+#c_btn:pressed{
+    -fx-background-color: black;
+    -fx-text-fill:whitesmoke;
+    -fx-border-color: black;
+    -fx-border-radius: 10;
+    -fx-background-radius: 10;
+}
+#c_btn2{
+    -fx-background-color: transparent;
+    -fx-text-fill:black;
+    -fx-border-color: black;
+    -fx-border-radius: 10
+}
+#c_btn2:hover{
+    -fx-background-color: BEIGE;
+    -fx-text-fill:black;
+    -fx-border-color: black;
+    -fx-border-radius: 10;
+    -fx-background-radius: 10;
+    -fx-effect: dropshadow(three-pass-box,rgba(0, 0, 0, 0.8), 10, 0, 0, 0)
+}
+#c_btn2:pressed{
+    -fx-background-color: black;
+    -fx-text-fill:whitesmoke;
+    -fx-border-color: black;
+    -fx-border-radius: 10;
+    -fx-background-radius: 10;
+}
+#maintoolbar{
+    -fx-background-color: transparent;
+    -fx-border-color: black;
+    -fx-border-radius: 10
+}
+
+#toolbar{
+    -fx-background-color: transparent;
+    -fx-text-fill:black;
+    -fx-border-radius: 10
+}
+#toolbar:hover{
+    -fx-background-color: BEIGE;
+    -fx-text-fill:black;
+    -fx-border-color: black;
+    -fx-border-radius: 10;
+    -fx-background-radius: 10;
+    -fx-effect: dropshadow(three-pass-box,rgba(0, 0, 0, 0.8), 10, 0, 0, 0)
+}
+#toolbar:pressed{
+    -fx-background-color: black;
+    -fx-text-fill:whitesmoke;
+    -fx-border-color: black;
+    -fx-border-radius: 10;
+    -fx-background-radius: 10;
+}
+#c_lb7{
+    -fx-border-color: red;
+    -fx-background-color: red;
+    -fx-border-radius: 10;
+    -fx-background-radius: 10;
+    -fx-font: normal bold 20px 'serif';
+    -fx-text-fill:black;
+}
+#c_lb1{
+    -fx-font: normal bold 20px 'serif';
+    -fx-text-fill:black;
+}
+
+#c_tf{
+    -fx-background-color: whitesmoke;
+    -fx-border-color: black;
+    -fx-border-radius: 10;
+    -fx-background-radius: 10;
+}
+#c_tf:hover{
+    -fx-effect: dropshadow(three-pass-box,rgba(0, 0, 0, 0.8), 10, 0, 0, 0)
+}
+#c_tf:pressed{
+    -fx-background-color: red;
+    -fx-border-color: black;
+    -fx-border-radius: 10;
+    -fx-background-radius: 10;
+    -fx-effect: dropshadow(three-pass-box,rgba(0, 0, 0, 0.8), 10, 0, 0, 0)
+}
+#c_lb19{
+    -fx-border-color: red;
+    -fx-background-color: red;
+    -fx-border-radius: 10;
+    -fx-background-radius: 10;
+    -fx-font: normal bold 20px 'serif';
+    -fx-text-fill:black;
+}
+#c_lb18{
+    -fx-font: normal bold 12px 'serif';
+    -fx-text-fill:black;
+    -fx-alignment: top-left;
+}
+
+#keyb{
+    -fx-background-color: transparent;
+    -fx-text-fill:black;
+    -fx-border-radius: 10
+}
+#keyb:hover{
+    -fx-background-color: BEIGE;
+    -fx-text-fill:black;
+    -fx-border-color: black;
+    -fx-border-radius: 10;
+    -fx-background-radius: 10;
+    -fx-effect: dropshadow(three-pass-box,rgba(0, 0, 0, 0.8), 10, 0, 0, 0)
+}
+#keyb:pressed{
+    -fx-background-color: black;
+    -fx-text-fill:whitesmoke;
+    -fx-border-color: black;
+    -fx-border-radius: 10;
+    -fx-background-radius: 10;
+}
+#keybBase{
+    -fx-background-color: BEIGE;
+    -fx-text-fill:black;
+    -fx-border-color: black;
+    -fx-border-radius: 10;
+    -fx-background-radius: 10;
+    -fx-effect: dropshadow(three-pass-box,rgba(0, 0, 0, 0.8), 10, 0, 0, 0)
+}
+#ErrorHelping{
+    -fx-text-alignment: center;
+    -fx-font: normal bold 20px 'serif';
+}
